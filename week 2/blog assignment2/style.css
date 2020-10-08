@@ -1,0 +1,21 @@
+header {
+    height: 500px;
+    color: white;
+    text-align: center;
+    background-color: gray;
+    font-size: large;
+}
+
+nav {
+float:left;
+font-size: small;
+height:50px;
+color:white;
+background-color: gray;
+
+}
+
+footer {
+    font-size: small;
+    color: gray;
+}
